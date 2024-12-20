@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['get_5factualband_0',['get_actualband',['../class_image_m_s_1_1_image_m_s.html#ab975c707cb36902274e4c7d3309cf9c8',1,'ImageMS::ImageMS']]],
+  ['get_5fall_5fdatas_1',['get_all_datas',['../class_simulations_1_1_simulations.html#a6b8a9fd3b0881eabaa881b3a2a23cb8e',1,'Simulations::Simulations']]],
+  ['get_5fband_5fshade_2',['get_band_shade',['../class_image_m_s_1_1_image_m_s.html#abd01064d16ff115d6e953c3371e85f13',1,'ImageMS::ImageMS']]],
+  ['get_5fbands_3',['get_bands',['../class_image_m_s_1_1_image_m_s.html#a0b02229ae8abaf0f297d7fdc99a53b9a',1,'ImageMS::ImageMS']]],
+  ['get_5fdata_5fby_5fkey_4',['get_data_by_key',['../class_simulations_1_1_simulations.html#aa50c9982c11db8ef4c705644985fcaf2',1,'Simulations::Simulations']]],
+  ['get_5fend_5fwavelength_5',['get_end_wavelength',['../class_image_m_s_1_1_image_m_s.html#a681fdb558a5b7a562c0346a9dfc268df',1,'ImageMS::ImageMS']]],
+  ['get_5fheight_6',['get_height',['../class_image_m_s_1_1_image_m_s.html#abc6652ed4ccbd3967d1c637d8553f348',1,'ImageMS::ImageMS']]],
+  ['get_5fmax_5fwavelength_7',['get_max_wavelength',['../class_band_1_1_band.html#a1c258133eaa5216893dcbdd21da2af99',1,'Band::Band']]],
+  ['get_5fmin_5fwavelength_8',['get_min_wavelength',['../class_band_1_1_band.html#a4371ad7f43098a91a2a5a2f046d4032b',1,'Band::Band']]],
+  ['get_5fname_9',['get_name',['../class_image_m_s_1_1_image_m_s.html#a20d7e4a6a7d6bad86f6c7621919fe267',1,'ImageMS::ImageMS']]],
+  ['get_5fname_5fwithout_5fextension_10',['get_name_without_extension',['../class_image_m_s_1_1_image_m_s.html#a204d45d5e416b5731464279b57deb963',1,'ImageMS::ImageMS']]],
+  ['get_5fnumber_11',['get_number',['../class_band_1_1_band.html#a18608c17143a620c6715b68a5e6ea657',1,'Band::Band']]],
+  ['get_5fnumber_5fbands_12',['get_number_bands',['../class_image_m_s_1_1_image_m_s.html#ac558873454d41d38a5ab034133bc0aae',1,'ImageMS::ImageMS']]],
+  ['get_5fpath_13',['get_path',['../class_image_m_s_1_1_image_m_s.html#a8d8382770ddb6193355770dc6621f444',1,'ImageMS::ImageMS']]],
+  ['get_5fshade_5fof_5fgrey_14',['get_shade_of_grey',['../class_band_1_1_band.html#a83b5ec4d637046e435b6914a93ed150d',1,'Band::Band']]],
+  ['get_5fshade_5fof_5fgrey_5fas_5ffloat_15',['get_shade_of_grey_as_float',['../class_band_1_1_band.html#a3c206b8a2651958ad46703ba750521cc',1,'Band::Band']]],
+  ['get_5fshade_5fof_5fgrey_5fas_5fpercent_16',['get_shade_of_grey_as_percent',['../class_band_1_1_band.html#afad64140946843c7c528361626f2ffee',1,'Band::Band']]],
+  ['get_5fsize_17',['get_size',['../class_image_m_s_1_1_image_m_s.html#aa8335e2370223d2a97b8f7b35fc07a1c',1,'ImageMS::ImageMS']]],
+  ['get_5fstart_5fwavelength_18',['get_start_wavelength',['../class_image_m_s_1_1_image_m_s.html#a5792cc764320540680fd76a19e8493c5',1,'ImageMS::ImageMS']]],
+  ['get_5fwavelength_19',['get_wavelength',['../class_band_1_1_band.html#a538dd1573f92a9616677e6518fc71649',1,'Band::Band']]],
+  ['get_5fwidget_20',['get_widget',['../class_button_builder_1_1_button_builder.html#a9fbad3185c0af8686b0a65a4af6dca9e',1,'ButtonBuilder.ButtonBuilder.get_widget()'],['../class_label_builder_1_1_label_builder.html#a60bddea258a3ae7c2ed9164b8189f294',1,'LabelBuilder.LabelBuilder.get_widget()'],['../class_menu_bar_builder_1_1_menu_bar_builder.html#a72fbc9053d574a30337d5753e0f25e0c',1,'MenuBarBuilder.MenuBarBuilder.get_widget()'],['../class_text_builder_1_1_text_builder.html#aed080685413a7a78dec26757c906071b',1,'TextBuilder.TextBuilder.get_widget()'],['../class_title_builder_1_1_title_builder.html#a93878b4eb08bc18da6967c3af018c0db',1,'TitleBuilder.TitleBuilder.get_widget()'],['../class_treeview_builder_1_1_treeview_builder.html#af6fdff26fa88a5d183d06c9fb4d64a1a',1,'TreeviewBuilder.TreeviewBuilder.get_widget()']]],
+  ['get_5fwidth_21',['get_width',['../class_image_m_s_1_1_image_m_s.html#a4cc35dc11e91463670c90449c04dff8e',1,'ImageMS::ImageMS']]]
+];
